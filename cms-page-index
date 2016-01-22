@@ -1,0 +1,45 @@
+
+<action method="removeItem"><type>js</type><name>scriptaculous/builder.js</name></action>  
+<action method="removeItem"><type>js</type><name>scriptaculous/dragdrop.js</name></action>  
+
+<action method="removeItem"><type>skin_css</type><name>css/widgets.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/ecommerceteam/cloud-zoom.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/tm/easytabs.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/catalogsale.css</name></action>
+<action method="removeItem"><type>skin_css</type><name>css/tm/googlemap/tm_googlemap.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/tm/instagram/instagram.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/print.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/cmsmart/ajaxsearch/jquery.multiselect.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/cmsmart/ajaxsearch/assets/prettify.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/photoswipe.css</name></action> 
+<action method="removeItem"><type>skin_css</type><name>css/jquery.bxslider.css</name></action> 
+
+<action method="removeItem"><type>js</type><name>jquery/jquery-migrate-1.2.1.min.js</name></action> 
+<action method="removeItem"><type>js</type><name>jquery/jquery_noconflict.js</name></action> 
+<action method="removeItem"><type>js</type><name>lib/ccard.js</name></action> 
+
+<action method="removeItem"><type>js</type><name>scriptaculous/effects.js</name></action> 
+<action method="removeItem"><type>js</type><name>scriptaculous/controls.js</name></action> 
+
+<action method="removeItem"><type>js</type><name>varien/form.js</name></action> 
+
+
+<action method="removeItem"><type>js</type><name>varien/configurable.js</name></action> 
+<action method="removeItem"><type>js</type><name>calendar/calendar.js</name></action> 
+<action method="removeItem"><type>js</type><name>calendar/calendar-setup.js</name></action> 
+<action method="removeItem"><type>js</type><name>cmsmart/ajaxsearch/jquery.multiselect.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/bootstrap.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery.easing.1.3.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery.carouFredSel-6.2.1.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery.touchSwipe.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery.bxslider.min.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery.unveil.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/smoothing-scroll.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery.mobile.customized.min.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/superfish.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/jquery-ui.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/bundle.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/tm/easytabs.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/carousel.js</name></action> 
+<action method="removeItem"><type>skin_js</type><name>js/youama/ajaxlogin/jquery-ui-1-10-4.js</name></action> 
+<action method="removeItem"><type>js</type><name>ecommerceteam/cloud-zoom.1.0.2.js</name></action> 
